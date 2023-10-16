@@ -1,0 +1,2 @@
+# CurrencyRateCode
+New Repository Currency
